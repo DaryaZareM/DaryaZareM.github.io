@@ -22,7 +22,7 @@ GitHub documentation: https://docs.github.com/en/pages/getting-started-with-gith
 - **Bio, research, publications, experience, and projects:** edit `index.html`.
 - **Typography, colors, spacing, and mobile layout:** edit `style.css`.
 - **Portrait:** replace `assets/darya.png`.
-- **CV:** replace `assets/Resume_DaryaZare.pdf`, preserving the filename, or update both CV links in `index.html`.
+- **CV:** replace `assets/Resume_DaryaZare.pdf`, preserving the filename, or update the CV link in `index.html`.
 
 The current roles and dates follow the résumé supplied on 7 October 2026. Publication titles, authors, and publication years were checked against the publisher pages. The ASONAM paper appeared in the proceedings in January 2025 for the 2024 conference. LinkedIn is linked as supplied; it was not accessible for content verification.
 
